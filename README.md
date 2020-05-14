@@ -96,7 +96,7 @@ https://remoteok.io
 
 Connecting with new people is a great way of finding a new job. Add events or tech community chats/slacks here that can help people to connect.
 
-[Hacking From Home Hackathon](https://hackingfromhome.ca)
+[Hackorona Hackathon](https://hackorona.in.dev/)
 
 [TorontoJS Slack](http://slack.torontojs.com/)
 
